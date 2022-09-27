@@ -1,0 +1,16 @@
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\bin\Debug\netcoreapp3.1\RenewingPassport.Infra.deps.json
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\bin\Debug\netcoreapp3.1\RenewingPassport.Infra.runtimeconfig.json
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\bin\Debug\netcoreapp3.1\RenewingPassport.Infra.runtimeconfig.dev.json
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\bin\Debug\netcoreapp3.1\RenewingPassport.Infra.dll
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\bin\Debug\netcoreapp3.1\RenewingPassport.Infra.pdb
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\bin\Debug\netcoreapp3.1\RenewingPassport.Core.dll
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\bin\Debug\netcoreapp3.1\RenewingPassport.Core.pdb
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.csproj.AssemblyReference.cache
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.AssemblyInfoInputs.cache
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.AssemblyInfo.cs
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.csproj.CopyComplete
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.dll
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.pdb
+C:\Users\Malla\Source\Repos\RenewingPassport\RenewingPassport.Infra\obj\Debug\netcoreapp3.1\RenewingPassport.Infra.genruntimeconfig.cache
